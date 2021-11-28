@@ -1,0 +1,1 @@
+# 12.-Write-a-C-program-to-simulate-the-following-file-allocation-strategies.-a-Sequential
